@@ -19,9 +19,9 @@ int circleH = 20;
   
 void setup()
 {
-  size(400,400);
-  jolteon = loadImage("data/jolteon.png");
-  zapdos = loadImage("data/zapdos.jpg");
+  size(500,500);
+  jolteon = loadImage("jolteon.png");
+  zapdos = loadImage("zapdos.jpg");
   background(0, 0, 0);
 }
 
