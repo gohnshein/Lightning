@@ -27,7 +27,6 @@ void setup()
 
 void draw()
 {  
-  delay(0);
   background(0, 0, 0);
   strokeWeight(0);
   fill(52, 159, 201);
@@ -67,8 +66,6 @@ void draw()
   }
   circleW += 10;
   circleH += 10;
-  
-  delay(100);
 }
 
 void mousePressed()
